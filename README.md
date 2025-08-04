@@ -27,7 +27,11 @@ This is a front-end web application for an online plant store. Users can browse 
 ## Project Structure
 
 /src
+<br>
 |-- /components       # Reusable components (Navbar)
+<br>
 |-- /context          # Global state management (AuthContext, CartContext)
+<br>
 |-- /pages            # Page-level components (Home, Shop, Cart, etc.)
+<br>
 |-- App.jsx           # Main component with routing setup
